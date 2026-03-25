@@ -1,1 +1,2 @@
-# Healthcare-dataset
+This project demonstrates how healthcare data can be transformed into meaningful insights through systematic analysis. By cleaning, exploring, and analyzing the dataset, we can uncover important patterns that may help improve patient care, optimize resource allocation, and support data-driven decision-making.
+The approach outlined in this project can be extended to larger and more complex healthcare datasets, enabling scalable and impactful analytics solutions.
